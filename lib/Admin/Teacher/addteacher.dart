@@ -721,7 +721,7 @@ class _AddTeacherState extends State<AddTeacher> {
             decoration: InputDecoration(
               labelText: labelName,
               border:
-                  OutlineInputBorder(borderRadius: BorderRadius.circular(9)),
+                  OutlineInputBorder(borderRadius: BorderRadius.circular(7)),
             ),
           ),
         ),
